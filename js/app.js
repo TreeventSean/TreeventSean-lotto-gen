@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> hotfix2
 function generate() { var numbers = [];
 for(var i=0; i<6; i++) {
 var number = Math.floor(Math.random() * 45) + 1;
