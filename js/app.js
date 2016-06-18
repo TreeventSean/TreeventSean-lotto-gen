@@ -13,3 +13,5 @@ return numbers; }
 for(var i=0; i<numbers.length; i++) { if(numbers[i] == number) return true;
 }
 return false; }
+
+//정렬기능 추가
